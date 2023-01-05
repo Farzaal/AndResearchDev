@@ -1,0 +1,24 @@
+.lineArea {
+  position: absolute;
+  top: 0.99px;
+  left: 0;
+  width: 370px;
+  height: 80.13px;
+}
+.point20Icon,
+.point50Icon {
+  position: absolute;
+  top: -2.02px;
+  left: 179.98px;
+  width: 10.04px;
+  height: 8.04px;
+}
+.point20Icon {
+  top: 64.98px;
+  left: -2.02px;
+}
+.nbchartsLinechats {
+  position: relative;
+  width: 100%;
+  height: 81.13px;
+}

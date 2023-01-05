@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-red-hat-display: "Red Hat Display";
+  --font-roboto: Roboto;
+  --font-fira-code: "Fira Code";
+
+  /* font sizes */
+  --font-size-4xs: 10.11px;
+  --font-size-3xs: 10.46px;
+  --font-size-2xs: 10px;
+  --font-size-xs: 11.03px;
+  --font-size-sm: 12px;
+  --font-size-base: 16px;
+  --font-size-lg: 24px;
+  --font-size-xl: 32px;
+
+  /* Colors */
+  --color-gray-100: #d9d9d9;
+  --gray: #abb2bf;
+  --color-gray-300: #333;
+  --background: #282c33;
+  --color-gray-500: #012030;
+  --color-black: #000;
+  --white: #fff;
+  --primary: #c778dd;
+
+  /* Gaps */
+  --gap-2xs: 5px;
+  --gap-xs: 8px;
+  --gap-sm: 10px;
+  --gap-md: 11px;
+  --gap-lg: 16px;
+  --gap-xl: 32px;
+
+  /* Paddings */
+  --padding-xs: 4px;
+  --padding-sm: 8px;
+  --padding-md: 16px;
+  --padding-lg: 32px;
+
+  /* border radiuses */
+  --br-xs: 5px;
+  --br-sm: 9.96px;
+  --br-md: 10px;
+  --br-lg: 15px;
+  --br-xl: 17px;
+}

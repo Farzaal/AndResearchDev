@@ -1,0 +1,1118 @@
+.imac1Child,
+.imac1Inner,
+.imac1Item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(154, 235, 163, 0.6);
+  width: 1280px;
+  height: 48px;
+}
+.imac1Inner,
+.imac1Item {
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: rgba(19, 103, 138, 0.85);
+  width: 75px;
+  height: 720px;
+}
+.imac1Inner {
+  top: 8px;
+  left: 857px;
+  border-radius: var(--br-lg);
+  background-color: rgba(19, 103, 138, 0.9);
+  width: 390px;
+  height: 33px;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+  box-shadow: 5.976922988891602px 3.9846153259277344px 7.97px
+    rgba(0, 0, 0, 0.25);
+  width: 374px;
+  height: 196px;
+}
+.groupItem {
+  top: 1px;
+  left: 390px;
+}
+.groupInner,
+.rectangleDiv {
+  left: 783px;
+  background-color: var(--white);
+  width: 372px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-sm);
+  box-shadow: 5.976922988891602px 3.9846153259277344px 7.97px
+    rgba(0, 0, 0, 0.25);
+  height: 140px;
+}
+.rectangleDiv {
+  top: 155px;
+  box-shadow: 5.2896199226379395px 3.5264134407043457px 7.05px
+    rgba(0, 0, 0, 0.25);
+  height: 493px;
+}
+.groupChild1,
+.groupChild2,
+.rectangleDiv,
+.rectangleIcon {
+  position: absolute;
+  border-radius: var(--br-sm);
+}
+.groupChild1 {
+  top: 460px;
+  left: 0;
+  background-color: var(--white);
+  box-shadow: 5.976922988891602px 3.9846153259277344px 7.97px
+    rgba(0, 0, 0, 0.25);
+  width: 374px;
+  height: 188px;
+}
+.groupChild2,
+.rectangleIcon {
+  top: 456.02px;
+  left: 388.01px;
+  width: 389.94px;
+  height: 203.94px;
+}
+.groupChild2 {
+  top: 211px;
+  left: 0;
+  background-color: var(--white);
+  box-shadow: 5.976922988891602px 3.9846153259277344px 7.97px
+    rgba(0, 0, 0, 0.25);
+  width: 764px;
+  height: 237px;
+}
+.groupChild3 {
+  position: absolute;
+  top: 225px;
+  left: 0;
+  border-radius: 18px;
+  width: 733px;
+  height: 229px;
+}
+.div {
+  position: absolute;
+  left: 172px;
+  width: 20px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  top: 427px;
+  display: inline-block;
+  height: 10px;
+}
+.div1 {
+  position: absolute;
+  left: 313px;
+  width: 22px;
+}
+.div2,
+.div3 {
+  width: 21px;
+}
+.div2 {
+  position: absolute;
+  left: 456px;
+}
+.div3 {
+  left: 598px;
+}
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+}
+.div4 {
+  top: 427px;
+  left: 729px;
+  display: inline-block;
+  width: 21px;
+  height: 10px;
+}
+.div5 {
+  top: 428px;
+  left: 18px;
+  width: 7px;
+  height: 8px;
+}
+.div5,
+.div6,
+.div7,
+.div8 {
+  text-align: right;
+  display: inline-block;
+}
+.div6 {
+  position: absolute;
+  top: 383px;
+  left: 12px;
+  width: 13px;
+  height: 10px;
+}
+.div7,
+.div8 {
+  left: 7px;
+  width: 18px;
+  height: 9px;
+}
+.div7 {
+  position: absolute;
+  top: 342px;
+}
+.div8 {
+  top: 298px;
+}
+.div8,
+.div9,
+.lineIcon {
+  position: absolute;
+}
+.div9 {
+  top: 255px;
+  left: 7px;
+  text-align: right;
+  display: inline-block;
+  width: 18px;
+  height: 10px;
+}
+.lineIcon {
+  top: 286.03px;
+  left: 39.61px;
+  width: 710.67px;
+  height: 111.47px;
+}
+.lineIcon1,
+.lineIcon2 {
+  position: absolute;
+  top: 269.5px;
+  left: 39.82px;
+  width: 710.44px;
+  height: 134px;
+}
+.lineIcon2 {
+  top: 301.93px;
+  left: 39.63px;
+  width: 710.55px;
+  height: 89.97px;
+}
+.markerIcon,
+.markerIcon1 {
+  position: absolute;
+  top: 394px;
+  left: 36px;
+  width: 8px;
+  height: 6px;
+}
+.markerIcon1 {
+  top: 289px;
+  left: 178px;
+}
+.markerIcon2,
+.markerIcon3,
+.markerIcon4 {
+  position: absolute;
+  top: 394px;
+  left: 319px;
+  width: 9px;
+  height: 6px;
+}
+.markerIcon3,
+.markerIcon4 {
+  top: 344px;
+  left: 461px;
+}
+.markerIcon4 {
+  left: 604px;
+  width: 8px;
+}
+.markerIcon5,
+.markerIcon6,
+.markerIcon7 {
+  position: absolute;
+  top: 283px;
+  left: 746px;
+  width: 8px;
+  height: 7px;
+}
+.markerIcon6,
+.markerIcon7 {
+  top: 294px;
+  left: 36px;
+}
+.markerIcon7 {
+  top: 328px;
+  left: 178px;
+}
+.markerIcon10,
+.markerIcon8,
+.markerIcon9 {
+  position: absolute;
+  top: 290px;
+  left: 319px;
+  width: 9px;
+  height: 7px;
+}
+.markerIcon10,
+.markerIcon9 {
+  top: 399px;
+  left: 461px;
+}
+.markerIcon10 {
+  top: 267px;
+  left: 604px;
+  width: 8px;
+}
+.markerIcon11,
+.markerIcon12,
+.markerIcon13 {
+  position: absolute;
+  top: 319px;
+  left: 746px;
+  width: 8px;
+  height: 7px;
+}
+.markerIcon12,
+.markerIcon13 {
+  top: 303px;
+  left: 36px;
+}
+.markerIcon13 {
+  top: 388px;
+  left: 178px;
+  height: 6px;
+}
+.markerIcon14,
+.markerIcon15 {
+  position: absolute;
+  top: 344px;
+  left: 319px;
+  width: 9px;
+  height: 7px;
+}
+.markerIcon15 {
+  top: 353px;
+  left: 461px;
+}
+.div10,
+.markerIcon16,
+.markerIcon17 {
+  position: absolute;
+  top: 299px;
+  left: 604px;
+  width: 8px;
+  height: 7px;
+}
+.div10,
+.markerIcon17 {
+  top: 333px;
+  left: 746px;
+}
+.div10 {
+  top: 133px;
+  left: 13px;
+  display: flex;
+  align-items: center;
+  width: 7px;
+  height: 12px;
+}
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19 {
+  position: absolute;
+  top: 97px;
+  left: 7px;
+  display: flex;
+  align-items: center;
+  width: 13px;
+  height: 10px;
+}
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19 {
+  top: 65px;
+}
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19 {
+  top: 32px;
+}
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19 {
+  top: 0;
+  left: 0;
+  width: 20px;
+}
+.div15,
+.div16,
+.div17,
+.div18,
+.div19 {
+  top: 135px;
+  left: 403px;
+  width: 7px;
+  height: 11px;
+}
+.div16,
+.div17,
+.div18,
+.div19 {
+  top: 102px;
+  left: 397px;
+  width: 13px;
+}
+.div17,
+.div18,
+.div19 {
+  top: 69px;
+}
+.div18,
+.div19 {
+  top: 37px;
+  height: 10px;
+}
+.div19 {
+  top: 4px;
+  left: 390px;
+  width: 20px;
+  height: 11px;
+}
+.leftText,
+.nbchartsColumnchats {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 410px;
+  height: 146px;
+}
+.nbchartsColumnchats {
+  top: 493px;
+  left: 10px;
+  text-align: right;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.bar1,
+.div20 {
+  position: absolute;
+  top: 0;
+  width: 116.51px;
+  height: 15px;
+}
+.div20 {
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar1 {
+  left: 1px;
+}
+.div21 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 194px;
+}
+.bar11,
+.bar12,
+.div21,
+.div22 {
+  position: absolute;
+  height: 15px;
+}
+.bar11 {
+  top: 26px;
+  left: 1px;
+  width: 194px;
+}
+.bar12,
+.div22 {
+  left: 0;
+  width: 155px;
+}
+.div22 {
+  top: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar12 {
+  top: 52px;
+}
+.div23 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #45c4b0 20.19%, #208171);
+  width: 276px;
+}
+.bar13,
+.bar14,
+.div23,
+.div24 {
+  position: absolute;
+  height: 15px;
+}
+.bar13 {
+  top: 78px;
+  left: 1px;
+  width: 276px;
+}
+.bar14,
+.div24 {
+  width: 93px;
+}
+.div24 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar14 {
+  top: 104px;
+  left: 1px;
+}
+.div25 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 59.52px;
+}
+.bar15,
+.bar16,
+.div25,
+.div26 {
+  position: absolute;
+  height: 14.71px;
+  transform: rotate(-90.13deg);
+  transform-origin: 0 0;
+}
+.bar15 {
+  top: 599.79px;
+  left: 59.14px;
+  width: 59.52px;
+}
+.bar16,
+.div26 {
+  width: 95.02px;
+}
+.div26 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar16 {
+  top: 599.77px;
+  left: 87.58px;
+}
+.div27 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 84.98px;
+  height: 14.71px;
+  transform: rotate(-90.12deg);
+}
+.bar17,
+.div27,
+.div28 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.bar17 {
+  top: 600.3px;
+  left: 116.03px;
+  width: 84.98px;
+  height: 14.71px;
+  transform: rotate(-90.12deg);
+}
+.div28 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #45c4b0 20.19%, #45c4b0);
+  width: 123.72px;
+}
+.bar18,
+.bar19,
+.div28,
+.div29 {
+  height: 14.71px;
+  transform: rotate(-90.13deg);
+}
+.bar18 {
+  position: absolute;
+  top: 599.73px;
+  left: 144.47px;
+  width: 123.72px;
+  transform-origin: 0 0;
+}
+.bar19,
+.div29 {
+  width: 107.19px;
+}
+.div29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  transform-origin: 0 0;
+}
+.bar19 {
+  top: 599.71px;
+  left: 172.92px;
+}
+.bar110,
+.bar19,
+.div31 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.bar110 {
+  top: 600.54px;
+  left: 201.39px;
+  width: 84.98px;
+  height: 14.71px;
+  transform: rotate(-90.12deg);
+}
+.div31 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #45c4b0 20.19%, #45c4b0);
+  width: 123.57px;
+}
+.bar111,
+.div31,
+.div32 {
+  height: 14.71px;
+  transform: rotate(-90.13deg);
+}
+.bar111 {
+  position: absolute;
+  top: 599.97px;
+  left: 229.83px;
+  width: 123.57px;
+  transform-origin: 0 0;
+}
+.div32 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 80.87px;
+}
+.bar112,
+.bar113,
+.div32,
+.div33 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.bar112 {
+  top: 599.95px;
+  left: 258.28px;
+  width: 80.87px;
+  height: 14.71px;
+  transform: rotate(-90.13deg);
+}
+.bar113,
+.div33 {
+  width: 82.49px;
+  height: 14.32px;
+  transform: rotate(-90.12deg);
+}
+.div33 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar113 {
+  top: 592.22px;
+  left: 432.17px;
+}
+.div34 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #45c4b0 20.19%, #45c4b0);
+  width: 129.33px;
+}
+.bar114,
+.bar115,
+.bar116,
+.div34,
+.div35 {
+  position: absolute;
+  height: 14.32px;
+  transform: rotate(-90.13deg);
+  transform-origin: 0 0;
+}
+.bar114 {
+  top: 592.28px;
+  left: 453.3px;
+  width: 129.33px;
+}
+.bar115,
+.bar116,
+.div35 {
+  width: 104.05px;
+}
+.div35 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar115,
+.bar116 {
+  top: 593.2px;
+  left: 474.23px;
+}
+.bar116 {
+  top: 592.22px;
+  left: 540.02px;
+  width: 82.49px;
+  transform: rotate(-90.12deg);
+}
+.bar117,
+.div38 {
+  transform: rotate(-90.13deg);
+}
+.bar117 {
+  position: absolute;
+  top: 591.34px;
+  left: 561.14px;
+  width: 129.33px;
+  height: 14.32px;
+  transform-origin: 0 0;
+}
+.div38 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 44.43px;
+}
+.bar118,
+.bar119,
+.div38,
+.div39 {
+  position: absolute;
+  height: 14.32px;
+  transform-origin: 0 0;
+}
+.bar118 {
+  top: 591.04px;
+  left: 582.02px;
+  width: 44.43px;
+  transform: rotate(-90.13deg);
+}
+.bar119,
+.div39 {
+  width: 104.41px;
+  transform: rotate(-90.12deg);
+}
+.div39 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar119 {
+  top: 591.69px;
+  left: 647.92px;
+}
+.div40 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #45c4b0 20.19%, #45c4b0);
+  width: 97.75px;
+}
+.bar120,
+.bar121,
+.div40,
+.div41 {
+  position: absolute;
+  height: 14.32px;
+  transform: rotate(-90.13deg);
+  transform-origin: 0 0;
+}
+.bar120 {
+  top: 592.51px;
+  left: 668.92px;
+  width: 97.75px;
+}
+.bar121,
+.div41 {
+  width: 78.5px;
+}
+.div41 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar121 {
+  top: 592.26px;
+  left: 689.86px;
+}
+.nbchartsHcolumncharts {
+  position: absolute;
+  top: 31px;
+  left: 25px;
+  width: 704.18px;
+  height: 600.54px;
+}
+.bar122,
+.div42 {
+  position: absolute;
+  top: 0;
+  width: 161px;
+  height: 15px;
+}
+.div42 {
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: #45c4b0;
+}
+.bar122 {
+  left: 1px;
+}
+.div43 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  width: 243px;
+}
+.bar123,
+.bar124,
+.div43,
+.div44 {
+  position: absolute;
+  height: 15px;
+}
+.bar123 {
+  top: 26px;
+  left: 1px;
+  width: 243px;
+}
+.bar124,
+.div44 {
+  left: 0;
+  width: 274px;
+}
+.div44 {
+  top: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar124 {
+  top: 52px;
+}
+.div45 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #012030);
+  width: 192px;
+}
+.bar125,
+.bar126,
+.div45,
+.div46 {
+  position: absolute;
+  height: 15px;
+}
+.bar125 {
+  top: 78px;
+  left: 1px;
+  width: 192px;
+}
+.bar126,
+.div46 {
+  width: 152px;
+}
+.div46 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+}
+.bar126 {
+  top: 104px;
+  left: 1px;
+}
+.nbchartsHcolumncharts1 {
+  position: absolute;
+  top: 36px;
+  left: 409px;
+  width: 274px;
+  height: 119px;
+}
+.div47,
+.div48,
+.div49,
+.div50,
+.div51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 8.47px;
+  height: 12.87px;
+}
+.div48,
+.div49,
+.div50,
+.div51 {
+  left: 82.11px;
+  width: 16.94px;
+}
+.div49,
+.div50,
+.div51 {
+  left: 169.58px;
+}
+.div50,
+.div51 {
+  left: 257.05px;
+}
+.div51 {
+  top: 0.14px;
+  left: 311.38px;
+  font-size: var(--font-size-4xs);
+  width: 23.3px;
+  height: 11.8px;
+}
+.bottomText,
+.bottomText1,
+.nbchartsHcolumncharts2 {
+  position: absolute;
+  top: 0;
+  left: 383px;
+  width: 334.68px;
+  height: 12.87px;
+}
+.bottomText1,
+.nbchartsHcolumncharts2 {
+  left: 0;
+}
+.nbchartsHcolumncharts2 {
+  top: 172px;
+  left: 22px;
+  width: 717.68px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+}
+.rectangleParent {
+  position: absolute;
+  top: 59px;
+  left: 100px;
+  width: 1155px;
+  height: 648px;
+  font-family: var(--font-roboto);
+}
+.imac1Child1 {
+  position: absolute;
+  top: 283px;
+  left: 755px;
+  border-radius: var(--br-lg);
+  background-color: rgba(69, 196, 176, 0.7);
+  width: 82px;
+  height: 17px;
+}
+.novembro {
+  position: absolute;
+  top: 284px;
+  left: 764px;
+  font-weight: 500;
+}
+.polygonIcon {
+  position: absolute;
+  top: 289.49px;
+  left: 825.43px;
+  width: 5.18px;
+  height: 4.49px;
+}
+.produtos {
+  position: absolute;
+  top: 275px;
+  left: 111px;
+  font-weight: 500;
+}
+.lucro,
+.r35212300,
+.vendasdia,
+.vendassemana {
+  position: absolute;
+  top: 62px;
+  left: 116px;
+  font-weight: 500;
+}
+.lucro,
+.r35212300,
+.vendassemana {
+  left: 505px;
+}
+.lucro,
+.r35212300 {
+  top: 63px;
+  left: 911px;
+}
+.r35212300 {
+  left: 1093px;
+  font-size: 25px;
+}
+.alcanceNovosProdutos,
+.clientesComMais {
+  position: absolute;
+  top: 231px;
+  left: 911px;
+  font-weight: 500;
+}
+.clientesComMais {
+  top: 524px;
+  left: 507px;
+}
+.novosClientes,
+.semana1,
+.semana2,
+.semana3 {
+  position: absolute;
+  top: 683px;
+  left: 561px;
+  font-weight: 500;
+}
+.novosClientes,
+.semana2,
+.semana3 {
+  left: 666px;
+}
+.novosClientes,
+.semana3 {
+  left: 775px;
+}
+.novosClientes {
+  top: 525px;
+  left: 116px;
+}
+.imac1Child2,
+.imac1Child3,
+.imac1Child4,
+.imac1Child5 {
+  position: absolute;
+  top: 547px;
+  left: 907px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 99px;
+  height: 33px;
+}
+.imac1Child3,
+.imac1Child4,
+.imac1Child5 {
+  top: 626px;
+}
+.imac1Child4,
+.imac1Child5 {
+  left: 1019px;
+  width: 214px;
+}
+.imac1Child5 {
+  top: 547px;
+}
+.semana11 {
+  position: absolute;
+  top: 556px;
+  left: 931px;
+  font-weight: 500;
+}
+.alcanceDasVendas,
+.alcanceDasVendas1,
+.alcanceDasVendas2 {
+  position: absolute;
+  top: 556px;
+  left: 1034px;
+  font-weight: 500;
+}
+.alcanceDasVendas1,
+.alcanceDasVendas2 {
+  top: 595px;
+}
+.alcanceDasVendas2 {
+  top: 635px;
+}
+.alcanceDasVendas3,
+.semana21,
+.semana31,
+.semana4 {
+  position: absolute;
+  top: 674px;
+  left: 1034px;
+  font-weight: 500;
+}
+.semana21,
+.semana31,
+.semana4 {
+  top: 595px;
+  left: 928px;
+}
+.semana31,
+.semana4 {
+  top: 635px;
+  left: 927px;
+}
+.semana4 {
+  top: 674px;
+}
+.imac1 {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: #ddd;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-red-hat-display);
+}
