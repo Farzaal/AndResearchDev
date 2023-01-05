@@ -1,0 +1,17 @@
+.screenshot20221103At159 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 875px;
+  height: 520.5px;
+  background-image: url(../../public/screenshot-20221103-at-159-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.screenshot20221103At159Parent {
+  position: relative;
+  width: 100%;
+  height: 477px;
+}

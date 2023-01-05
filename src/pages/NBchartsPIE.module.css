@@ -1,0 +1,73 @@
+.div,
+.ellipse5Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 265px;
+  height: 256px;
+}
+.div {
+  top: 30px;
+  left: 124px;
+  width: 59px;
+  height: 10px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div1 {
+  position: absolute;
+  top: 111.21px;
+  left: 80.48px;
+  width: 62.7px;
+  height: 7.75px;
+}
+.div2,
+.div3 {
+  height: 10px;
+}
+.div2 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  width: 86px;
+}
+.div3 {
+  top: 43px;
+  left: 2px;
+  width: 67px;
+}
+.div3,
+.div4,
+.text5 {
+  position: absolute;
+}
+.div4 {
+  top: 0;
+  left: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 61px;
+  height: 8px;
+}
+.text5 {
+  top: 75px;
+  left: 40px;
+  width: 183px;
+  height: 118.96px;
+}
+.nbchartsPie {
+  position: relative;
+  width: 100%;
+  height: 256px;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}
