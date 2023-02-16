@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AndResearchDev/static/css/main.6c838497.css",
+    "main.js": "/AndResearchDev/static/js/main.744340b2.js",
+    "index.html": "/AndResearchDev/index.html",
+    "main.6c838497.css.map": "/AndResearchDev/static/css/main.6c838497.css.map",
+    "main.744340b2.js.map": "/AndResearchDev/static/js/main.744340b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c838497.css",
+    "static/js/main.744340b2.js"
+  ]
+}
